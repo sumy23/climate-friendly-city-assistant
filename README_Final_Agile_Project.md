@@ -1,3 +1,18 @@
+![Project Banner](banner.png)
+
+## 📂 Project Structure
+
+climate-friendly-city-assistant/
+┣ README.md
+┣ diagrams/
+┃ ┣ class_diagram.png
+┃ ┣ sequence_diagram.png
+┗ ui/
+┣ mockup_mobile.png
+┗ storyboard.jpg
+
+
+
 #  Climate-Friendly City Assistant – Agile Final Project
 
 This project presents a system proposal to address the increasing effects of climate change in Istanbul. Developed using Agile methodology, it includes IoT infrastructure, cloud architecture, machine learning analytics, and mobile/web applications.
