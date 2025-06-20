@@ -1,17 +1,5 @@
 ![Project Banner](banner.png)
 
-## 📂 Project Structure
-
-climate-friendly-city-assistant/
-┣ README.md
-┣ diagrams/
-┃ ┣ class_diagram.png
-┃ ┣ sequence_diagram.png
-┗ ui/
-┣ mockup_mobile.png
-┗ storyboard.jpg
-
-
 
 #  Climate-Friendly City Assistant – Agile Final Project
 
@@ -84,6 +72,23 @@ The proposed system consists of three main layers:
 | Indifferent        | Technical admin dashboards                                               |
 | Displeasers        | Spammy notifications, overly complex interfaces                         |
 
+## ▶How It Would Work
+
+1. Deploy IoT sensors across the city
+2. Connect sensors to MQTT broker
+3. Stream data to cloud database (InfluxDB)
+4. Run ML analytics pipeline (Python/R)
+5. Use mobile/web apps to view data and alerts
+
+
+##  Future Improvements
+
+- Add real-time feedback loop for public reports
+- Integrate solar-powered sensors
+- Use geospatial maps (GIS) for better UI
+- Support multi-language alerts (TR/EN)
+
+  
 ## Author
 
 **Sümeyye Albayrak**  
